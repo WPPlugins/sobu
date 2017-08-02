@@ -1,0 +1,197 @@
+# Copyright (C) 2014 WooCommerce sobu
+# This file is distributed under the same license as the WooCommerce sobu package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce sobu 0.1-alpha\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/woocommerce-sobu\n"
+"POT-Creation-Date: 2014-12-16 14:10:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: _inc/class-wc-sobu.php:25
+msgid "sobu"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:26 views/order.php:3
+msgid "Publish via sobu and benefit"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:71
+msgid "API Key"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:73 _inc/class-wc-sobu.php:80
+msgid "You can find this in the sobu partner portal"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:78
+msgid "Test API Key"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:85
+msgid "Mode"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:88
+msgid "Test Mode"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:96
+msgid "Coupon code"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:98
+msgid "Enter a valid Coupon code"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:103
+msgid "Commission"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:105
+msgid "Commission for recommendations, either fixed or add a % on the end"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:110
+msgid "Benefit link"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:112
+msgid "Copy the benefit link into your shop profile in the sobu partner portal"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:117
+msgid "Public Key"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:120
+msgid "Copy the public key into your shop profile in the sobu partner portal"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:125
+msgid "Debug Log"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:127
+msgid "Enable logging"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:129
+msgid "Log sobu events, inside <code>%s</code>"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:738
+msgid "Coupon does not exist!"
+msgstr ""
+
+#: views/buddy.php:15 views/email_html.php:14 views/info.php:15
+msgid "sobu buy share earn"
+msgstr ""
+
+#: views/buddy.php:16
+msgid "%s benefit for you"
+msgstr ""
+
+#: views/buddy.php:17
+msgid "If you order now you will benefit from an extra discount of %s. This discount will be deducted automatically from the total amount at the end of your order."
+msgstr ""
+
+#: views/buddy.php:18 views/info.php:16
+msgid "What is sobu?"
+msgstr ""
+
+#: views/buddy.php:21
+msgid "Redeem voucher worth %s now"
+msgstr ""
+
+#: views/email_html.php:15 views/order.php:2
+msgid "sobu: buy - share - earn"
+msgstr ""
+
+#: views/email_html.php:16 views/order.php:4
+msgid "Publish your purchase now via sobu on social networks (Facebook, LinkedIn or Twitter) and give your friends a voucher worth %s . In return you will receive a great rate of %s commission on the cost of each purchase made by your friends as a result of your recommendation."
+msgstr ""
+
+#: views/email_html.php:17 views/email_plain.php:14 views/order.php:12
+msgid "Publish via sobu"
+msgstr ""
+
+#: views/info.php:17
+msgid "sobu is an online shop platform from Swiss Post, built on the principle \"buy, share and earn\". Anyone who shares their purchase with their friends on social networks (Facebook, LinkedIn or Twitter) and prompts friends to make a purchase at %s can now earn cash!"
+msgstr ""
+
+#: views/info.php:18
+msgid "Earn % commission on your friends&#8217; purchases!"
+msgstr ""
+
+#: views/info.php:19
+msgid "Receive a great rate of %s commission on the cost of each purchase made by your friends as a result of your recommendation. This means that you earn cash regularly when your friends purchase from %s!"
+msgstr ""
+
+#: views/info.php:20
+msgid "Get your money in three easy steps"
+msgstr ""
+
+#: views/info.php:21
+msgid ""
+"it&#8217;s as simple as that:<br><br>\n"
+"<b>Buy</b> After making a purchase, you will see advice in the online shop on how you can recommend the products you have purchased. Register once on the sobu platform.<br>\n"
+"<b>Share</b> Publish the products you have purchased on social networks.<br>\n"
+"<b>Earn</b> You will now automatically receive %s commission on each order that your friends make as a result of the published link. You can withdraw the accumulated sum of money from your sobu account.\n"
+"    "
+msgstr ""
+
+#: views/info.php:26
+msgid "%s discount for all your friends"
+msgstr ""
+
+#: views/info.php:27
+msgid ""
+"It gets even better! Each of your friends benefits from a one-off discount of %s when they click on your recommendation link and make a purchase. This will be deducted from the cost of their purchase automatically. The discount of %s can only be redeemed once per person.<br><br>\n"
+"    We hope you have lots of fun with your online shopping and earning! You can find more information about sobu at <a href=\"%s\">sobu.ch</a>.<br><br><iframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/embed/kDBBOT_jKrw\" frameborder=\"0\" allowfullscreen></iframe>"
+msgstr ""
+
+#: woocommerce-sobu.php:126
+msgid "sobu %s requires WordPress %s or higher."
+msgstr ""
+
+#: woocommerce-sobu.php:126
+msgid "Please <a href=\"%1$s\">upgrade WordPress</a> to a current version."
+msgstr ""
+
+#: woocommerce-sobu.php:130
+msgid "sobu requires the openssl extension to be loaded."
+msgstr ""
+
+#: woocommerce-sobu.php:138
+msgctxt "Page slug"
+msgid "sobu-info"
+msgstr ""
+
+#: woocommerce-sobu.php:139
+msgctxt "Page title"
+msgid "sobu"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce sobu"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/woocommerce-sobu/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This is a plugin, it makes it possible to integrate a WooCommerce shop into the <cite>sobu</cite> network."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Christian Fraunholz php10.de"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://php10.de/sobu/woocommerce/"
+msgstr ""

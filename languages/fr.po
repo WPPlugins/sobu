@@ -1,0 +1,264 @@
+# Copyright (C) 2014 WooCommerce sobu
+# This file is distributed under the same license as the WooCommerce sobu package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce sobu 0.1-alpha\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/woocommerce-sobu\n"
+"POT-Creation-Date: 2014-12-16 14:10:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-12-16 15:46+0100\n"
+"Last-Translator: Dipl.-Ing. (FH) Christian Konrad Fraunholz <christian@php10."
+"de>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+
+#: _inc/class-wc-sobu.php:25
+msgid "sobu"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:26 views/order.php:3
+msgid "Publish via sobu and benefit"
+msgstr "Publier via sobu"
+
+#: _inc/class-wc-sobu.php:71
+msgid "API Key"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:73 _inc/class-wc-sobu.php:80
+msgid "You can find this in the sobu partner portal"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:78
+msgid "Test API Key"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:85
+msgid "Mode"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:88
+msgid "Test Mode"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:96
+msgid "Coupon code"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:98
+msgid "Enter a valid Coupon code"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:103
+msgid "Commission"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:105
+msgid "Commission for recommendations, either fixed or add a % on the end"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:110
+msgid "Benefit link"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:112
+msgid "Copy the benefit link into your shop profile in the sobu partner portal"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:117
+msgid "Public Key"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:120
+msgid "Copy the public key into your shop profile in the sobu partner portal"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:125
+msgid "Debug Log"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:127
+msgid "Enable logging"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:129
+msgid "Log sobu events, inside <code>%s</code>"
+msgstr ""
+
+#: _inc/class-wc-sobu.php:738
+msgid "Coupon does not exist!"
+msgstr ""
+
+#: views/buddy.php:15 views/email_html.php:14 views/info.php:15
+msgid "sobu buy share earn"
+msgstr "sobu acheter partager profiter"
+
+#: views/buddy.php:16
+msgid "%s benefit for you"
+msgstr "commission per te"
+
+#: views/buddy.php:17
+msgid ""
+"If you order now you will benefit from an extra discount of %s. This "
+"discount will be deducted automatically from the total amount at the end of "
+"your order."
+msgstr ""
+"En commandant maintenant, vous b&eacute;n&eacute;ficierez d&#8217;un rabais "
+"suppl&eacute;mentaire de %s gr&acirc;ce &agrave; la recommandation de votre "
+"ami. Le rabais sera d&eacute;duit automatiquement du montant total &agrave; "
+"la fin de la commande."
+
+#: views/buddy.php:18 views/info.php:16
+msgid "What is sobu?"
+msgstr "Qu&#8217;est-ce que sobu?"
+
+#: views/buddy.php:21
+msgid "Redeem voucher worth %s now"
+msgstr "Utiliser d&egrave;s maintenant son bon de %s"
+
+#: views/email_html.php:15 views/order.php:2
+msgid "sobu: buy - share - earn"
+msgstr "sobu: acheter - partager - profiter"
+
+#: views/email_html.php:16 views/order.php:4
+msgid ""
+"Publish your purchase now via sobu on social networks (Facebook, LinkedIn or "
+"Twitter) and give your friends a voucher worth %s . In return you will "
+"receive a great rate of %s commission on the cost of each purchase made by "
+"your friends as a result of your recommendation."
+msgstr ""
+"Publier via sobu sur les r&eacute;seaux sociaux (Facebook, LinkedIn ou "
+"Twitter) et donne %s de rabais pour chacun de tes amis!. Pour chaque achat "
+"effectu&eacute; par tes amis suite &agrave; ta recommandation, tu toucheras "
+"une g&eacute;n&eacute;reuse commission de %s du montant"
+
+#: views/email_html.php:17 views/email_plain.php:14 views/order.php:12
+msgid "Publish via sobu"
+msgstr "Publier via sobu"
+
+#: views/info.php:17
+msgid ""
+"sobu is an online shop platform from Swiss Post, built on the principle "
+"\"buy, share and earn\". Anyone who shares their purchase with their friends "
+"on social networks (Facebook, LinkedIn or Twitter) and prompts friends to "
+"make a purchase at %s can now earn cash!"
+msgstr ""
+"sobu est une plateforme de boutiques en ligne de la Poste suisse. Ce service "
+"en ligne se base sur le principe \"acheter &mdash; partager &mdash; profiter"
+"\". Les personnes qui partagent leurs achats avec leurs amis sur les "
+"r&eacute;seaux sociaux (Facebook, LinkedIn ou Twitter) et qui les incitent "
+"ainsi &agrave; effectuer un achat sur %s peuvent gagner de l&#8217;argent "
+"comptant!"
+
+#: views/info.php:18
+msgid "Earn % commission on your friends&#8217; purchases!"
+msgstr "Profite d&#8217;une commission de %s sur les achats de tes amis!"
+
+#: views/info.php:19
+msgid ""
+"Receive a great rate of %s commission on the cost of each purchase made by "
+"your friends as a result of your recommendation. This means that you earn "
+"cash regularly when your friends purchase from %s!"
+msgstr ""
+"Pour chaque achat effectu&eacute; par tes amis suite &agrave; ta "
+"recommandation, tu toucheras une g&eacute;n&eacute;reuse commission de %s du "
+"montant. Ainsi, tu gagneras r&eacute;guli&egrave;rement de l&#8217;argent "
+"comptant quand tes amis feront leurs achats sur %s"
+
+#: views/info.php:20
+msgid "Get your money in three easy steps"
+msgstr "Trois &eacute;tapes simples pour gagner de l&#8217;argent comptant!"
+
+#: views/info.php:21
+msgid ""
+"it&#8217;s as simple as that:<br><br>\n"
+"<b>Buy</b> After making a purchase, you will see advice in the online shop "
+"on how you can recommend the products you have purchased. Register once on "
+"the sobu platform.<br>\n"
+"<b>Share</b> Publish the products you have purchased on social networks."
+"<br>\n"
+"<b>Earn</b> You will now automatically receive %s commission on each order "
+"that your friends make as a result of the published link. You can withdraw "
+"the accumulated sum of money from your sobu account.\n"
+"    "
+msgstr ""
+"C&#8217;est tout ce qu&#8217;il y a de plus simple:<br><br><b>Acheter</b> "
+"apr&egrave;s avoir effectu&eacute; un achat, tu verras dans la boutique la "
+"consigne &agrave; suivre pour recommander les produits achet&eacute;s. "
+"Inscris-toi une seule fois sur la plateforme sobu.<br><b>Partager</b> publie "
+"les articles que tu as achet&eacute;s sur les r&eacute;seaux sociaux."
+"<br><b>Profiter</b> d&eacute;sormais, tu recevras automatiquement une "
+"commission de %s sur chaque commande pass&eacute;e par tes amis &agrave; "
+"travers le lien publi&eacute; sur les r&eacute;seaux sociaux. Pour connaître "
+"le montant total, consulte ton compte sobu."
+
+#: views/info.php:26
+msgid "%s discount for all your friends"
+msgstr "%s de rabais pour chacun de tes amis!"
+
+#: views/info.php:27
+msgid ""
+"It gets even better! Each of your friends benefits from a one-off discount "
+"of %s when they click on your recommendation link and make a purchase. This "
+"will be deducted from the cost of their purchase automatically. The discount "
+"of %s can only be redeemed once per person.<br><br>\n"
+"    We hope you have lots of fun with your online shopping and earning! You "
+"can find more information about sobu at <a href=\"%s\">sobu.ch</a>."
+"<br><br><iframe width=\"560\" height=\"315\" src=\"http://www.youtube.com/"
+"embed/kDBBOT_jKrw\" frameborder=\"0\" allowfullscreen></iframe>"
+msgstr ""
+"Et ce n&#8217;est pas tout! En cliquant sur ton lien de recommandation, "
+"chacun de tes amis profite d&#8217;un rabais unique de %s sur son achat. Le "
+"rabais sera automatiquement d&eacute;duit du montant de l&#8217;achat. Le "
+"rabais de %s ne peut &ecirc;tre utilis&eacute; qu&#8217;une seule fois par "
+"personne.<br><br>    Profites-en et bon shopping en ligne! Pour plus d&#8217;"
+"informations sur sobu, consulte <a href=\"%s\">sobu.ch</a>.<br><br><iframe "
+"width=\"560\" height=\"315\" src=\"//youtube.com/embed/IuXlGSMtkP4\" "
+"frameborder=\"0\" allowfullscreen></iframe>"
+
+#: woocommerce-sobu.php:126
+msgid "sobu %s requires WordPress %s or higher."
+msgstr ""
+
+#: woocommerce-sobu.php:126
+msgid "Please <a href=\"%1$s\">upgrade WordPress</a> to a current version."
+msgstr ""
+
+#: woocommerce-sobu.php:130
+msgid "sobu requires the openssl extension to be loaded."
+msgstr ""
+
+#: woocommerce-sobu.php:138
+msgctxt "Page slug"
+msgid "sobu-info"
+msgstr ""
+
+#: woocommerce-sobu.php:139
+msgctxt "Page title"
+msgid "sobu"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce sobu"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/woocommerce-sobu/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is a plugin, it makes it possible to integrate a WooCommerce shop into "
+"the <cite>sobu</cite> network."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Christian Fraunholz php10.de"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://php10.de/sobu/woocommerce/"
+msgstr ""
